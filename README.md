@@ -6,7 +6,8 @@
 ### Members:
 - **Vu Ngoc Quang**
 - **Vuong Quoc An**
-- **Nguyen Minh Tri**
+- **Nguyen Minh Tri**-
+-  **Le Thanh Hai**
 
 ---
 
