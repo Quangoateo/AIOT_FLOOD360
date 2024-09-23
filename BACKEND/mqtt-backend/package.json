@@ -1,0 +1,23 @@
+{
+  "name": "mqtt-backend",
+  "version": "1.0.0",
+  "description": "Backend server for MQTT communication using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "nodejs",
+    "backend",
+    "express"
+  ],
+  "author": "Ngoc Quang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "mqtt": "^4.3.8"
+  }
+}
